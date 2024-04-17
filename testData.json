@@ -1,0 +1,10 @@
+{
+    "home": {
+        "id": "1",
+        "item": "Read a book."
+    },
+    "about": {
+        "id": "2",
+        "item": "Cycle around town."
+    }
+}

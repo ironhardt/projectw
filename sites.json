@@ -1,0 +1,12 @@
+[
+    {
+        "path": "/home",
+        "name": "home",
+        "handler": "handle_route1"
+    },
+    {
+        "path": "/about",
+        "name": "about",
+        "handler": "handle_route2"
+    }
+]
